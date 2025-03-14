@@ -24,7 +24,7 @@
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
     "alpinejs": "^3.14.9",
-    "astro": "^5.4.3",
+    "astro": "^5.5.2",
     "astro-icon": "^1.1.5",
     "astro-seo": "^0.8.4",
     "preact": "^10.26.4",

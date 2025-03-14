@@ -3,6 +3,7 @@
 ```sh
 pnpm create astro@latest -- --template basics
 pnpm astro add tailwind mdx alpinejs preact react solid svelte vue partytown
+pnpm add @astrojs/sitemap @astrojs/seo astro-icon  @astro-kits/google-analytics
 ```
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
